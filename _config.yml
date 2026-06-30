@@ -22,8 +22,8 @@ title: Yugal Gurung
 description: >- # this means to ignore newlines until "baseurl:"
   Yugal Gurung personal website
 keywords: yugal, gurung, music, musician, lukamari, afno, sansaar
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/yugalgurungmusic"
+url: "https://www.biwek.com"
 
 # Build settings
 plugins:
